@@ -112,6 +112,7 @@ Built a computer vision-based fitness assistant for rep counting and exercise po
 - 💰 Awarded ₹25,000 by Indian Army for Cyber Threat Detection
 - 🏅 Top-10 National — RBIH Green Score API
 - 🏅 Top-3 — Agri Supply Chain Optimization by Ninjacart
+- 🥇 1st Place — IoT Hackathon, Fiestaa 2026
 
 ---
 
